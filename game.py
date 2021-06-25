@@ -9,3 +9,4 @@ while ans!=n:
 		break
 	else:
 		print("better luck next time")
+	break
